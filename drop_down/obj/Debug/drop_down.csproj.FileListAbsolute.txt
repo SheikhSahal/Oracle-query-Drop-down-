@@ -1,0 +1,78 @@
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\roslyn\csc.exe
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\roslyn\vbc.exe
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\roslyn\VBCSCompiler.exe
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\drop_down.dll.config
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\drop_down.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\drop_down.pdb
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\EntityFramework.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\EntityFramework.SqlServer.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\Oracle.ManagedDataAccess.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\System.Web.Helpers.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\System.Web.Mvc.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\System.Web.Razor.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\System.Web.Webpages.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\System.Web.Webpages.Razor.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\EntityFramework.xml
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\EntityFramework.SqlServer.xml
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\System.Web.Razor.xml
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\System.Web.Webpages.xml
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\System.Web.Webpages.Razor.xml
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\System.Web.Helpers.xml
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\bin\System.Web.Mvc.xml
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\obj\Debug\drop_down.csprojResolveAssemblyReference.cache
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\obj\Debug\drop_down.dll
+C:\Users\sahal.qasim\Desktop\drop_down\drop_down\obj\Debug\drop_down.pdb
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\roslyn\csc.exe
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\roslyn\System.Collections.Immutable.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\roslyn\System.Reflection.Metadata.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\roslyn\vbc.exe
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\roslyn\VBCSCompiler.exe
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\roslyn\VBCSCompiler.exe.config
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\drop_down.dll.config
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\drop_down.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\drop_down.pdb
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\EntityFramework.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\EntityFramework.SqlServer.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\Microsoft.Web.Infrastructure.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\Oracle.ManagedDataAccess.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\System.Web.Helpers.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\System.Web.Mvc.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\System.Web.Razor.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\System.Web.Webpages.Deployment.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\System.Web.Webpages.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\System.Web.Webpages.Razor.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\EntityFramework.xml
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\EntityFramework.SqlServer.xml
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\System.Web.Razor.xml
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\System.Web.Webpages.xml
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\System.Web.Webpages.Deployment.xml
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\System.Web.Webpages.Razor.xml
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\System.Web.Helpers.xml
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\bin\System.Web.Mvc.xml
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\obj\Debug\drop_down.csprojResolveAssemblyReference.cache
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\obj\Debug\drop_down.dll
+E:\MICROSOFT VISUAL STUDIO ASP.NET MVC\web learning\visual_studio\MVC 5\Oracle_query_Drop_Down\drop_down\obj\Debug\drop_down.pdb
